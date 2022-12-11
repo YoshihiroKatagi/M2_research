@@ -72,7 +72,6 @@ print("data_last_No: " + str(data_last_No))
 #### DATA_INFO(date, subject, pattern) を入力
 ####  Data_INFO から該当するデータを読み込み， data_No, Data_PATH(Gonio, Echo), trial_num を決定し Data_INFOとともに datasheet_all に書き込み
 
-print("書き込みモードです．")
 print("DATA_INFOを入力してdatasheet_all.csvに書き込むデータを指定してください．")
 
 ## DATA_INFO
